@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mutlubiev\\MutlubievAPI\\MutlubievAPI.csproj": {}
+    "C:\\Users\\asus\\gitrepost\\MutlubievCaseStudy\\MutlubievAPI\\MutlubievAPI.csproj": {}
   },
   "projects": {
-    "C:\\Mutlubiev\\MutlubievAPI\\MutlubievAPI.csproj": {
+    "C:\\Users\\asus\\gitrepost\\MutlubievCaseStudy\\MutlubievAPI\\MutlubievAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mutlubiev\\MutlubievAPI\\MutlubievAPI.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\gitrepost\\MutlubievCaseStudy\\MutlubievAPI\\MutlubievAPI.csproj",
         "projectName": "MutlubievAPI",
-        "projectPath": "C:\\Mutlubiev\\MutlubievAPI\\MutlubievAPI.csproj",
+        "projectPath": "C:\\Users\\asus\\gitrepost\\MutlubievCaseStudy\\MutlubievAPI\\MutlubievAPI.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Mutlubiev\\MutlubievAPI\\obj\\",
+        "outputPath": "C:\\Users\\asus\\gitrepost\\MutlubievCaseStudy\\MutlubievAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

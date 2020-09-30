@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "il0dqFi1EuZ7mJSY07a1tLQyTDWQmpUBDEZH7vOyp3wQJwf0WytRnI/O41hV8+JM2CVi4VyO7EZZ0QPVB/KjfQ==",
+  "dgSpecHash": "6YEFHjYb9zyXDFNzQcKyVxlBCFkml6Xifj7xs+iMzPUItSb1OqEO53tKbp0UJrPQV8nEK2fyX8rpnITC1UXgtQ==",
   "success": true,
-  "projectFilePath": "C:\\Mutlubiev\\MutlubievAPI\\MutlubievAPI.csproj",
+  "projectFilePath": "C:\\Users\\asus\\gitrepost\\MutlubievCaseStudy\\MutlubievAPI\\MutlubievAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
